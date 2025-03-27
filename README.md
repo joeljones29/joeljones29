@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeljones29&show_icons=true&theme=gruvbox)
 <!--
 **joeljones29/joeljones29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
