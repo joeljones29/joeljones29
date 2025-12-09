@@ -1,18 +1,63 @@
-## Hi there 👋
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeljones29&show_icons=true&theme=gruvbox)
+<div align="center">
+  
+  <h1 align="center">Joel Jones</h1>
+  
+  <h3>Blue Team Aspirant | Digital Forensics | Security Developer</h3>
+  
+  <p>
+    Final-year Computer Science student focused on <b>SOC Operations</b>, <b>DFIR</b>, and <b>Tool Development</b>.
+    <br/>
+    Building automated solutions for log analysis and network forensics.
+  </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeljones29\&layout=donut-vertical&theme=gruvbox)](https://github.com/joeljones29/github-readme-stats)
-<!--
-**joeljones29/joeljones29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p>
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:YOUR_EMAIL_HERE">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Arsenal
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,bash,linux,docker,git,wireshark,md" />
+  </a>
+</div>
+
+<br/>
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Security Operations** | Zeek, Snort/Suricata, Splunk (Log Analysis), TCPDump |
+| **Forensics** | Autopsy, FTK Imager, Volatility, Windows Event Logs |
+| **Development** | Python (Automation/Scripting), Electron (Desktop Apps), JavaScript |
+| **Infrastructure** | Docker (Containerized Labs), Kali Linux |
+
+---
+
+### 🔭 Project Showcase
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Timelance** (In Dev) | A specialized digital forensics timeline analysis tool tailored for quick triage. | `Python` `Electron` |
+| [**Network-Analysis-with-Zeek**](https://github.com/joeljones29/Network-Analysis-with-Zeek) | Dockerized lab environment for analyzing PCAP files using Zeek network security monitor. | `Docker` `Zeek` `Bash` |
+| [**SecTool-Rules**](https://github.com/joeljones29/SecTool-Rules) | A collection of custom detection signatures and rules for various security tools. | `YARA` `Snort` |
+| [**Log-Parsing-using-Python**](https://github.com/joeljones29/Log-Parsing-using-Python) | Scripts to automate the extraction and analysis of anomalies in server logs. | `Python` `Regex` |
+| [**Project_RouteWeaver**](https://github.com/joeljones29/Project_RouteWeaver) | Algorithm implementation for route optimization and pathfinding. | `JavaScript` |
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/joeljones29">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joeljones29&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeljones29&layout=compact&theme=radical&langs_count=6"/>
+  </a>
+</div>
