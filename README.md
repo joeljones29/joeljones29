@@ -49,6 +49,6 @@
 | [**Network-Analysis-with-Zeek**](https://github.com/joeljones29/Network-Analysis-with-Zeek) | Dockerized lab environment for analyzing PCAP files using Zeek network security monitor. | `Docker` `Zeek` `Bash` |
 | [**SecTool-Rules**](https://github.com/joeljones29/SecTool-Rules) | A collection of custom detection signatures and rules for various security tools. | `Sysmon` `Splunk` |
 | [**Log-Parsing-using-Python**](https://github.com/joeljones29/Log-Parsing-using-Python) | Scripts to automate the extraction and analysis of anomalies in server logs. | `Python` `Regex` |
-| [**Project_RouteWeaver**](https://github.com/joeljones29/Project_RouteWeaver) | Algorithm implementation for route optimization and pathfinding. | `JavaScript` `MongoDB` |
+| [**Project_RouteWeaver**](https://github.com/joeljones29/Project_RouteWeaver) | A minimalistic itinerary website for highly customizable road trips depending on user needs using Google Maps and AI. | `JavaScript` `MongoDB` |
 
 
